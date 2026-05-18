@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(4, 0, 14);
+}
+h1{
+    text-align: center;
+}
+p{
+text-align: center;
+}
+#headingone{
+    color: rgb(245, 253, 4);
+}
+#headingtwo{
+    color:rgb(242, 26, 228);
+    text-align: center;
+}
+#headingthree{
+    color:rgb(8, 148, 242);
+}
+#myself{
+    color: rgb(37, 175, 193);
+    font-weight: bold;
+font-style: italic;
+}
+p{
+    color: azure;
+    font-weight: bold;
+    font-style: normal;
+}
+p{
+    text-align: center;
+    font-size: 18px;
+    color: white; 
+}
+ul{
+    color:gray;
+    font-size: 20px;
+}
+table{
+    margin: auto;
+    background-color: white;
+    color:black;
+    border: 2px solid black;
+
+}
+th,td{
+margin: auto;
+border: 1px solid black;
+text-align: center;
+}
+th{
+    color: black;
+}
+td{
+    color: blue;
+}
+.like{
+    color:chartreuse;
+    font-weight: bold;
+}
+.Thankyou{
+    color:palevioletred;
+    font-style: italic;
+}
+.Mewar{
+    color:coral;
+}
